@@ -1,0 +1,49 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #202020;
+    color: #fff;
+}
+.title{
+    text-align: center;
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+li{
+    list-style-type: none;
+    float: left;
+    margin: 80px 90px;
+}
+li:hover{
+    background-color: black;
+    
+}
+
+.byClass{
+   
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.locations{
+    
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.age{
+   
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.survivors{
+    
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
